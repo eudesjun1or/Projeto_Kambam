@@ -1,11 +1,10 @@
 #Titulo{
-    font-family: 'Arial', sans-serif; /* Define a fonte do título */
-    color: #333333; /* Cor do texto */
-    text-shadow: 2px 2px 4px #000000; /* Sombra do texto para dar profundidade */
-    text-align: center; /* Alinha o texto ao centro */
-    padding: 10px; /* Espaçamento interno */
-    background-color: #f8f8f8; /* Cor de fundo do título */
-    border-bottom: 2px solid #cccccc; /* Linha abaixo do título */
-    margin-bottom: 20px; /* Espaçamento abaixo do título */
+    color: #333; /* Cor do texto */
+    font-family: Arial, sans-serif; /* Fonte do texto */
+    font-size: 2em; /* Tamanho da fonte */
+    text-align: center; /* Alinhamento do texto */
+    text-transform: uppercase; /* Transforma o texto em caixa alta */
+    letter-spacing: 2px; /* Espaçamento entre letras */
+    margin-top: 50px; /* Margem superior */
 
 }
